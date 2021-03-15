@@ -1,5 +1,9 @@
 # Parity-Risk-Strategies
-Apply Parity Risk Strategies on a variety of portfolio:Bonds, Equities, and Commodities.
+Apply Parity Risk Strategies on a variety of portfolio:Bonds, Equities, currencies, and Commodities.
+Bonds include: Germany, Australia, US, UK, Canada, and Japan.
+Equities include: Australia, Nethelands, Germany, Canada, Hong Kong, France, Belgium, US, Japan, Spain, Sweden, UK, Italy, and Singapore.
+Commodities include: Gold, West Texas Intermediate Cruide Oil (WTI), Heat Oil, Natural Gas, Silver, US Coffee, US Corn, Wheat, Copper, Platinum, and Cocoa.
+Currencies include: Australian dollar (AUD), EURO, Canadian dollar (CAD), Japanese yen (JPY), and British pound sterling (GBP).
 
 Risk Parity Portfolio (RP):
 - Risk parity portfolio is an investment allocation strategy that focuses on the allocation of risk, rather than the allocation of capital.
