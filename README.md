@@ -30,4 +30,10 @@ The Sharpe Ratio
 The Sortino Ratio
 - The Sortino ratio is a variation of the Sharpe ratio that differentiates harmful volatility from total overall volatility by using the asset's standard deviation of negative portfolio returns—downside deviation—instead of the total standard deviation of portfolio returns. 
 - The Sortino ratio takes an asset or portfolio's return and subtracts the risk-free rate, and then divides that amount by the asset's downside deviation. The ratio was named after Frank A. Sortino.
-- The Sortino ratio = Portfolio Return - Target Return / Downside Risk
+- The Sortino ratio = Portfolio Return - Target Return / Downside Risk.
+
+
+Maximum Drawdown (MDD)
+- A maximum drawdown (MDD) is the maximum observed loss from a peak to a trough of a portfolio before a new peak is attained. Maximum drawdown is an indicator of downside risk over a specified time period.
+- The formula for Maximum Drawdown is MDD = (Trough Value - Peak Value) /Peak Value.
+
