@@ -6,7 +6,7 @@ Apply Parity Risk Strategies on a variety of portfolio:Bonds, Equities, currenci
 - Commodities include: Gold, West Texas Intermediate Cruide Oil (WTI), Heat Oil, Natural Gas, Silver, US Coffee, US Corn, Wheat, Copper, Platinum, and Cocoa.
 - Currencies include: Australian dollar (AUD), EURO, Canadian dollar (CAD), Japanese yen (JPY), and British pound sterling (GBP).
 
-Risk Parity Portfolio (RP):
+**Risk Parity Portfolio (RP):**
 - Risk parity portfolio is an investment allocation strategy that focuses on the allocation of risk, rather than the allocation of capital.
 - A Risky Parity Portfolio, also known as equal risk contribution portfolio (ERC) is inverse volatility weighted portfolio if all pairwise correlations are equal,
 in other words, which individual assets, in the case of equity and bond, have equal risk contribution to the portfolio risk.
@@ -18,22 +18,22 @@ The risk parity strategy modifies the modern portfolio theory (MPT) approach to 
 The key point is that the RP portfolio should hold balanced risk allocation between the economic risk factors such as, 
 growth and inflation risk that are the major drivers of portfolio returns.
 
-Volatility
+**Volatility**
 - Volatility is a statistical measure of the dispersion of returns for a given security or market index. 
 In most cases, the higher the volatility, the riskier the security. 
 - However, volatility is often measured as either the standard deviation or variance between returns from that same security or market index.
 - Volatility is a measure of the price fluctuations of an asset or portfolio.
 
-The Sharpe Ratio
+**The Sharpe Ratio**
 - The sharpe ratio is the average return earned in excess of the risk-free rate per unit of volatility or total risk.
 
-The Sortino Ratio
+**The Sortino Ratio**
 - The Sortino ratio is a variation of the Sharpe ratio that differentiates harmful volatility from total overall volatility by using the asset's standard deviation of negative portfolio returns—downside deviation—instead of the total standard deviation of portfolio returns. 
 - The Sortino ratio takes an asset or portfolio's return and subtracts the risk-free rate, and then divides that amount by the asset's downside deviation. The ratio was named after Frank A. Sortino.
 - The Sortino ratio = Portfolio Return - Target Return / Downside Risk.
 
 
-Maximum Drawdown (MDD)
+**Maximum Drawdown (MDD)**
 - A maximum drawdown (MDD) is the maximum observed loss from a peak to a trough of a portfolio before a new peak is attained. Maximum drawdown is an indicator of downside risk over a specified time period.
 - The formula for Maximum Drawdown is MDD = (Trough Value - Peak Value) /Peak Value.
 
@@ -42,3 +42,12 @@ Maximum Drawdown (MDD)
 - A minimum variance portfolio indicates a well-diversified portfolio that consists of individually risky assets, which are hedged when traded together, resulting in the lowest possible risk for the rate of expected return.
 
 - A minimum variance portfolio is a collection of securities that combine to minimize the price volatility of the overall portfolio. Volatility is a statistical measure of a particular security's price movement (ups and downs).
+
+**The Efficient Frontier**
+
+- The efficient frontier is the set of optimal portfolios that offer the highest expected return for a defined level of risk or the lowest risk for a given level of expected return. 
+- Portfolios that lie below the efficient frontier are sub-optimal because they do not provide enough return for the level of risk.
+
+**The Relative Strength Index (RSI)**
+
+- The relative strength index (RSI) is a momentum indicator used in technical analysis that measures the magnitude of recent price changes to evaluate overbought or oversold conditions in the price of a stock or other asset. 
