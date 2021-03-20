@@ -37,3 +37,8 @@ Maximum Drawdown (MDD)
 - A maximum drawdown (MDD) is the maximum observed loss from a peak to a trough of a portfolio before a new peak is attained. Maximum drawdown is an indicator of downside risk over a specified time period.
 - The formula for Maximum Drawdown is MDD = (Trough Value - Peak Value) /Peak Value.
 
+**Minimum Variance Portfolio (MV)**
+
+- A minimum variance portfolio indicates a well-diversified portfolio that consists of individually risky assets, which are hedged when traded together, resulting in the lowest possible risk for the rate of expected return.
+
+- A minimum variance portfolio is a collection of securities that combine to minimize the price volatility of the overall portfolio. Volatility is a statistical measure of a particular security's price movement (ups and downs).
